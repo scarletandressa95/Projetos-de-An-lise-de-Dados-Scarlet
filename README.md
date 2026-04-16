@@ -21,7 +21,7 @@ Este projeto tem como objetivo analisar o desempenho geral das vendas, produtos 
 - Excel 
 
 #### 📸 Visual do Dashboard: 
-![Dashboard](https://1drv.ms/i/c/ef83294da647c126/IQBakoD1iLPkTJPjRRmEyYeSAbT6VjGerBx8jKUh2GULWo4?e=0qathv)
+![Dashboard de Análise de Resultados](Captura de tela 2026-04-15 221359.png)
 
 #### 🎥 Demonstração: 
 [▶️ Clique aqui para assistir](LINK_DO_SEU_VIDEO)
