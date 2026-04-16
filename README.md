@@ -2,18 +2,29 @@
 
 Olá! Sou analista de dados com foco em transformar informações em decisões estratégicas.
 
-Este repositório reúne projetos desenvolvidos com Power BI, Excel, PowerPoint e soluções com Inteligência Artificial.
+Este portifólio reúne projetos desenvolvidos com Power BI, Excel, PowerPoint e soluções com Inteligência Artificial.
 
 ---
 
-## 📊 Projetos
+## 📊 Projetos Power BI
 
-### 🔹 Dashboard de Análise de Sinistros
-- Classificação de risco (baixo, médio, alto, crítico)
-- Indicadores de perda total e parcial
-- Ferramentas: Power BI
+### 🔹 Dashboard de Análise de Resultados 
+Este projeto tem como objetivo analisar o desempenho geral das vendas, produtos e resultados, fornecendo insights estratégicos para tomada de decisão. 
 
-🔗 Em breve
+#### 🔍 Análises realizadas: 
+- Análise de produtos (desempenho, volume e participação) 
+- Análise de vendas (faturamento, evolução e indicadores) 
+- Análise de desempenho (comparativos e métricas de resultado) 
+
+#### 🛠️ Ferramentas utilizadas: 
+- Power BI 
+- Excel 
+
+#### 📸 Visual do Dashboard: 
+![Dashboard](https://1drv.ms/i/c/ef83294da647c126/IQBakoD1iLPkTJPjRRmEyYeSAbT6VjGerBx8jKUh2GULWo4?e=0qathv)
+
+#### 🎥 Demonstração: 
+[▶️ Clique aqui para assistir](LINK_DO_SEU_VIDEO)
 
 ---
 
